@@ -1,4 +1,4 @@
 package com.fju.ai;
 
-public class Box1 {
+public class Box2 {
 }
